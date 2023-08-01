@@ -1,0 +1,12 @@
+{
+    "urls": "http://localhost:",
+    "port": "6000",
+    "databaseConnection": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "user_management"
+    },
+    
+    "JWT_SECRET": "asdfghjkl"
+}
